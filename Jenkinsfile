@@ -21,3 +21,5 @@ pipeline {
         }
     }
 }
+
+https://chatgpt.com/share/68dee2f9-a470-800e-b620-048092bfbd53
